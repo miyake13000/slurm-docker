@@ -1,0 +1,4 @@
+/munge.key
+/slurm.conf
+/log/*
+!/log/.keep
